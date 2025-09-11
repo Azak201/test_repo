@@ -1,0 +1,21 @@
+# Ignore node_modules (for Node.js projects)
+node_modules/
+
+# Ignore build files
+dist/
+build/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore environment/config files
+.env
+config/*.json
+
+# Ignore logs
+*.log
+
+# Ignore the node modules
+node_modules/
+
